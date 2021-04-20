@@ -280,11 +280,12 @@ img {
 }
 /* footer */
 .footer-cont {
-  padding-top: 60px;
-  padding-bottom: 60px;
   padding-left: auto;
 }
 .footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+
   background-color: var(--darck-bg-color);
 }
 .footer-logo {
