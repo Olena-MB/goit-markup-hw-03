@@ -150,16 +150,12 @@ img {
 /* hero */
 
 .hero {
-  padding-top: 94px;
-  padding-bottom: 94px;
+  padding-top: 200px;
+  padding-bottom: 200px;
 
   background: var(--darck-bg-color);
   color: var(--white-color);
   text-align: center;
-}
-.hero-cont {
-  padding-top: 200px;
-  padding-bottom: 280px;
 }
 
 .hero-title {
@@ -275,8 +271,9 @@ img {
   margin-bottom: 10px;
 }
 .team-label {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding: 30px;
+
+  background-color: var(--white-color);
 }
 /* footer */
 .footer-cont {
